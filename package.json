@@ -39,13 +39,13 @@
     }
   },
   "dependencies": {
-    "atom-package-deps": "^5.1.0",
+    "atom-package-deps": "^8.0.0",
     "atom-select-list": "^0.7.2",
-    "lodash": "^4.17.15",
-    "minimatch": "^3.0.3"
+    "lodash": "^4.18.1",
+    "minimatch": "^3.1.4"
   },
   "devDependencies": {
-    "eslint-config-steelbrain": "^7.0.0",
+    "eslint-config-steelbrain": "^11.0.0",
     "flow-bin": "^0.119.1",
     "jasmine-fix": "^1.3.1"
   },
